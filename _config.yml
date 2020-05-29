@@ -1,10 +1,9 @@
 ---
-title: Hydeout
-tagline: A Jekyll theme
-description: The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme
-  for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.
-url: 
-baseurl:
+title: Thriving Mindsets
+tagline: The pursuit of growth is a game played between you and yourself
+description: The pursuit of growth is a game played between you and yourself
+url: http://thrivingmindsets.org
+baseurl: ''
 author:
   name: Andrew Fong
   url: https://twitter.com/fongandrewc
@@ -27,5 +26,6 @@ remote_theme: fongandrew/hydeout
 google_analytics: ''
 disqus:
   shortname: ''
-
 theme: jekyll-theme-hydeout
+markdown: ''
+highlighter: ''
