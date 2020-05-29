@@ -14,4 +14,4 @@ for your own use upon downloading. Carry on!
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
 matter.
 
-> What is the hotkey for block qoute? >
+> What is the hotkey for block quote? >
