@@ -5,8 +5,8 @@ description: The pursuit of growth is a game played between you and yourself
 url: http://thrivingmindsets.org
 baseurl: ''
 author:
-  name: Andrew Fong
-  url: https://twitter.com/fongandrewc
+  name: Luke Butler
+  url: https://twitter.com/lukebutler
 paginate: 5
 exclude:
 - README.md
@@ -27,3 +27,5 @@ google_analytics: ''
 disqus:
   shortname: ''
 theme: jekyll-theme-hydeout
+markdown: ''
+highlighter: ''
