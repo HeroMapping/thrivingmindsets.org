@@ -1,20 +1,11 @@
 ---
 layout: post
-title: What are Thriving Mindests?
+title: COMING SOON
 excerpt: ''
-date: 2020-05-29 04:00:00 +0000
+date: 2020-05-29T04:00:00.000+00:00
 last_modified_at: 
 categories: []
 tags: []
 comments: false
 
 ---
-**_This is the first sentence._** 
-
-## Second Level Header
-
-# First level Header
-
-* Start typing
-
-> [Block quote](https://thrivingmindsets.org)
